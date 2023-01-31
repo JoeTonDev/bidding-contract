@@ -1,1 +1,5 @@
-*.rs linguist-detectable=rust
+*          text=auto
+
+*.rs       text diff=rust
+*.toml     text diff=toml
+Cargo.lock text
