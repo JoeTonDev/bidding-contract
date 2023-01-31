@@ -1,1 +1,1 @@
-*.rust linguist-detectable=Rust
+*.rs linguist-detectable=rust
